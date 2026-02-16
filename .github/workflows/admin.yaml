@@ -25,7 +25,7 @@ jobs:
 
             echo "Connected to server"
 
-            cd ~/admin-service
+            cd ~/home/ubuntu/apps/admin-service
 
             echo "Pulling latest code..."
             git fetch origin main
